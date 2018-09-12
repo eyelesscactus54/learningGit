@@ -1,6 +1,5 @@
 #Default is "World"
-#Name is eyelesscactus54
-#This probably won't be saved
+#Name is eyelesscactus54, reset some stuff
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
